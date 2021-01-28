@@ -1,0 +1,20 @@
+{
+  "short_name": "hypertube",
+  "name": "hypertube",
+  "icons": [
+    {
+      "src": "icons/icon_512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "icons/icon_192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#000000"
+}

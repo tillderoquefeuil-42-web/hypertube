@@ -69,3 +69,11 @@ The Hypertube project invites you to discover an extremely powerful tool categor
 - medias resolutions
 - MediaStream (cast?)
 - download media
+
+## design
+swatch (dark red)
+- #6E1721
+- #941F2D
+- #AE2435
+- #BB2739
+- #FA344C

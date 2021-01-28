@@ -1,0 +1,7 @@
+{
+    "LOGIN" : {
+        "UPDATE_NAME":"LOGIN_UPDATE_NAME",
+        "SET_NAME":"LOGIN_SET_NAME",
+        "GET_ID":"LOGIN_GET_ID"
+    }    
+}
